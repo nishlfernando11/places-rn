@@ -1,5 +1,5 @@
-# places-rn
-Places app
+# meal-app-rn
+A simple React native app for adding favorite places.
 
-# Start app
-npm start
+# Start App
+Run npm start on the terminal
